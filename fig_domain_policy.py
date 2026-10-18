@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-fig_domain_policy_updated.py
+fig_domain_policy.py
 
 TECHNOLOGY-DOMAIN x POLICY-PRIORITY ANALYSIS
 =============================================
