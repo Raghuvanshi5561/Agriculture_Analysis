@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-fig_domain_env_custom_updated.py
+fig_domain_env_custom.py
 
 TECHNOLOGY DOMAIN × ENVIRONMENTAL OUTCOME ANALYSIS
 ==================================================
