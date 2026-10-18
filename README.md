@@ -142,5 +142,5 @@ The RCA scripts expect the `countries` and `tech_domains` fields. Review each sc
 
 - All input and output paths should be supplied as command-line arguments or resolved relative to the repository; no personal workstation paths are required.
 - The `data/` and `outputs/` contents are ignored by Git by default. This avoids accidental publication of licensed bibliographic exports or large derived files.
-- Keep the exact data extraction dates, database versions, query strings, and classification settings in a separate reproducibility note if needed for the manuscript.
+- The raw bibliographic data used in this study are not included in this repository due to database licensing and access restrictions. The scripts are provided to document the analytical workflow and support reproducibility, subject to access to the relevant data sources. Users should consult the applicable database terms and obtain the necessary access to reproduce the analysis.
 - Syntax and CI checks do not validate scientific results. Run the scripts against your full data and inspect the generated audit tables, figures, and warnings before publication.
