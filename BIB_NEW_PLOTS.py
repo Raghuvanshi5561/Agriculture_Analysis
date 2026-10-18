@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-BIB_NEW_PLOTS_frac_updated.py
+BIB_NEW_PLOTS.py
 
 Main bibliometric figures using the CURRENT three-layer classification file.
 
