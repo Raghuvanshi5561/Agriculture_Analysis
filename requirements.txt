@@ -1,0 +1,18 @@
+# Core data processing and plotting
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+scikit-learn>=1.3
+networkx>=3.2
+
+# Bibliometric network visualisation and text processing
+adjustText>=0.8
+nltk>=3.8
+
+# Leiden community detection (used by network scripts)
+igraph>=0.11
+leidenalg>=0.10
+
+# PDF report/figure generation
+reportlab>=4.0
