@@ -13,9 +13,9 @@ Repository containing the scripts for corpus preparation, three-layer classifica
 │   ├── merge_wos_scopus.py
 │   ├── filter_corpus.py
 │   ├── three_layer_classification.py
-│   ├── BIB_NEW_PLOTS_frac_updated.py
-│   ├── fig_domain_env_custom_updated.py
-│   ├── fig_domain_policy_updated.py
+│   ├── BIB_NEW_PLOTS.py
+│   ├── fig_domain_env_custom.py
+│   ├── fig_domain_policy.py
 │   ├── fig_sankey_tech_env_policy.py
 │   ├── cooccurrence_network.py
 │   ├── thematic_mapping.py
@@ -81,9 +81,9 @@ This script writes its classified corpus and audit/summary outputs to `outputs/c
 The four scripts below use `data/three_layer_classified_FINAL_v4.csv` by default and write outputs below `outputs/`:
 
 ```bash
-python scripts/BIB_NEW_PLOTS_frac_updated.py
-python scripts/fig_domain_env_custom_updated.py
-python scripts/fig_domain_policy_updated.py
+python scripts/BIB_NEW_PLOTS.py
+python scripts/fig_domain_env_custom.py
+python scripts/fig_domain_policy.py
 python scripts/fig_sankey_tech_env_policy.py
 ```
 
